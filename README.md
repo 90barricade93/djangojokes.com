@@ -1,0 +1,2 @@
+# djangojokes.com
+# readme file
