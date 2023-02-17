@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Desktop/ITMG/Python developer/solutions"
+		},
+		{
+			"path": "../../../Desktop/ITMG/Python developer/starter-code"
+		}
+	],
+	"settings": {
+		"git.openRepositoryInParentFolders": "prompt"
+	}
+}
