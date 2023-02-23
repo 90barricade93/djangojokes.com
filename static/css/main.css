@@ -2,11 +2,11 @@ body {
     padding-bottom: 50px;
     }
     footer {
-    border-top: 1px solid darkgreen;
+    border-top: 3px solid darkgreen;
     }
     header {
-    border-bottom: 1px solid darkgreen;
+    border-bottom: 3px solid darkgreen;
     }
     h2 {
-    font-style: italic;
+    font-style:  ;
     }
